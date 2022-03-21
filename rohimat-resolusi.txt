@@ -2,3 +2,5 @@ Rohimat Resolusi
 -konsisten membuat konten 1minggu sekali
 -membuat platfrom untuk pengelolaan video
 -membuat forum diskusi
+-membuat website
+-kolaborasi
