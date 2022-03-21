@@ -2,6 +2,7 @@ Rencana konten
 Membuat website portofolio
 Membaut website kampung
 Membuat website alumni
--info loker
-- poto alumni
+-tambah info loker
+-tambah foto alumni
+Membuat vlog
 Membuat website sebelas sholawat
